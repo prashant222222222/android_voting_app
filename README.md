@@ -2,4 +2,5 @@
 FDGFD
 * so iam
 * sdfkdjsfkj
-![screenshot1]("C:\Users\jhash\OneDrive\Desktop\1.jpeg")
+
+![screenshot1](C:\Users\jhash\OneDrive\Desktop\1.jpeg)
