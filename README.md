@@ -1,6 +1,9 @@
 # android_voting_app
 FDGFD
 * so iam
-* sdfkdjsfkj
+* sdfkdjsfkjHGHG
 
 <img src="images/1.JPG" height="200" alt="SCREENSHOT">
+<img src="images/2.JPG" height="200" alt="SCREENSHOT">
+<img src="images/5.JPG" height="200" alt="SCREENSHOT">
+<img src="images/6.JPG" height="200" alt="SCREENSHOT">
