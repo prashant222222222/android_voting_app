@@ -2,10 +2,6 @@
 
 ## screenshots
 
-.p1{
-  diaplay: inline;
-}
-
 
 <div class="p1">
 <img src="images/1.JPG" width="300" alt="SCREENSHOT">
