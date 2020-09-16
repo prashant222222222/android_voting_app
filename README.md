@@ -1,6 +1,6 @@
 # android_voting_app
 
-##screenshots
+## screenshots
 <img src="images/1.JPG" width="300" alt="SCREENSHOT">
 <img src="images/2.JPG" width="300" alt="SCREENSHOT">
 <img src="images/4.JPG" width="300" alt="SCREENSHOT">
